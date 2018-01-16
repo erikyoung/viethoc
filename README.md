@@ -1,0 +1,1 @@
+This is a site that I created entirely on my own, to include: user research, color palette, typeface choice, layout, copy, and branding. This will eventually be used to build out a full education ecommerce site. 
